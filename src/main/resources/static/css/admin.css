@@ -34,10 +34,10 @@
     transition: all 0.4s ease;
 }
 .sidebar .nav-links li a.active{
-    background: #cb9b9b;
+    background: #9bc9cb;
 }
 .sidebar .nav-links li a:hover{
-    background: #cb9b9b;
+    background: #9bc9cb;
 }
 .sidebar .nav-links li i{
     min-width: 60px;
@@ -117,7 +117,7 @@ nav .search-box .bx-search{
     position: absolute;
     height: 40px;
     width: 40px;
-    background: #cb9b9b;
+    background: #9bc9cb;
     right: 5px;
     top: 50%;
     transform: translateY(-50%);
@@ -194,7 +194,7 @@ table td {
 }
 
 table th {
-    background-color: #cb9b9b;
+    background-color: #9bc9cb;
     color: #fff;
     text-shadow: 1px 1px 0 rgba(0, 0, 0, 0.4);
 }

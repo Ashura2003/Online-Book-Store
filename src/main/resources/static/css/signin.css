@@ -1,4 +1,4 @@
-@import url("https://fonts.googleapis.com/css2?family=Poppins:wght@200;300;400;500;600;700;800&display=swap");
+@import url("https://fonts.googleapis.com/css2?family=Noto+Sans+Japanese:wght@200;300;400;500;600;700;800&display=swap");
 
 *,
 *::before,
@@ -10,7 +10,7 @@
 
 body,
 input {
-    font-family: "Poppins", sans-serif;
+    font-family: "Noto Sans Japanese", sans-serif;
 }
 
 main {
@@ -111,7 +111,7 @@ form.sign-up-form {
 }
 
 .toggle:hover {
-    color: #49618f;
+    color: #498f8f;
 }
 
 .input-wrap {
@@ -183,7 +183,7 @@ label {
 }
 
 .text a:hover {
-    color: #49618f;
+    color: #498f8f;
 }
 
 main.sign-up-mode form.sign-in-form {
