@@ -1,5 +1,5 @@
 /* Google Fonts */
-@import url("https://fonts.googleapis.com/css2?family=Poppins:wght@100;200;300;400;500;600;700&display=swap");
+@import url("https://fonts.googleapis.com/css2?family=Noto+Sans:wght@100;200;300;400;500;600;700&display=swap");
 * {
   margin: 0;
   padding: 0;
@@ -8,11 +8,11 @@
   scroll-padding-top: 2rem;
   list-style: none;
   text-decoration: none;
-  font-family: "Poppins", sans-serif;
+  font-family: "Noto Sans", sans-serif;
 }
 :root {
-  --text-color: #000000;
-  --main-color: #d07979;
+  --text-color: rgb(0, 0, 0);
+  --main-color: #9bc9cb;
 }
 
 
