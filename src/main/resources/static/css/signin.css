@@ -169,7 +169,7 @@ label {
 }
 
 .sign-btn:hover {
-    background-color: #cb9b9b;
+    background-color: #293872;
 }
 
 .text {
@@ -183,7 +183,7 @@ label {
 }
 
 .text a:hover {
-    color: #498f8f;
+    color: #293872;
 }
 
 main.sign-up-mode form.sign-in-form {

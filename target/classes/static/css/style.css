@@ -12,7 +12,7 @@
 }
 :root {
   --text-color: rgb(0, 0, 0);
-  --main-color: #9bc9cb;
+  --main-color: #293872;
 }
 
 
@@ -88,7 +88,7 @@ header {
   font-size: 14px;
 }
 .btn:hover {
-  background: #235784;
+  background: #293872;
 }
 .heading {
   text-align: center;
